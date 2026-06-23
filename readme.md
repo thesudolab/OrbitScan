@@ -17,3 +17,7 @@ OrbitScan is a modular, high-performance, CLI-based security configuration audit
    ```bash
    git clone [https://github.com/your-repo/orbitscan.git](https://github.com/your-repo/orbitscan.git)
    cd OrbitScan
+
+2. Install required dependency
+   ```bash
+   pip install -r requirements.txt
